@@ -1,8 +1,3 @@
-/*
- * File: 0-print_name.c
- * Auth: Brennan D Braban
- */
-
 #include "function_pointers.h"
 
 /**
